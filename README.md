@@ -1,6 +1,6 @@
 # App for upload files
 * It should show a file upload form in /start
-* It should show the image at /upload
+* It should show the image at /show
 
 # Stack
 * HTTP server
